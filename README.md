@@ -5,9 +5,7 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
     <div style="width: 48%;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reallmerry&theme=dark" alt="GitHub Stats" width="100%" />
-      <br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reallmerry&theme=dark" alt="Top Language" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ximai271&theme=dark" alt="Top Language" width="100%" />
     </div>
 
 </div>
