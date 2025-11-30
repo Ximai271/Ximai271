@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Name%3F;Java+Creator" alt="Typing SVG" />
 
 <!-- Аватарка с градиентной обводкой -->
-<img src="https://avatars.githubusercontent.com/u/yourusername" width="200" height="200" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(45deg, #00FF00, #008000) border-box;">
+<img src="https://avatars.githubusercontent.com/u/Ximai271" width="200" height="200" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(45deg, #00FF00, #008000) border-box;">
 
 <!-- Статистика -->
 <br>
